@@ -1,0 +1,10 @@
+{
+  "name": "servicefusion",
+  "description": "Full-capability Service Fusion integration for Phoenix Electric — CRM, jobs, dispatch, pricebook, accounting, telecom, memberships, marketing. 47 API tools with operational skills, commands, and autonomous agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shane Warehime",
+    "email": "shane@phoenixelectric.life"
+  },
+  "keywords": ["servicefusion", "phoenix-electric", "crm", "field-service", "pricebook", "dispatch"]
+}

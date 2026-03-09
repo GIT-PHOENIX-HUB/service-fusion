@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "servicefusion": {
+      "command": "node",
+      "args": ["/Users/shanewarehime/GitHub/phoenix-ai-core-staging/packages/servicefusion-mcp/dist/index.js"],
+      "env": {
+        "AZURE_KEY_VAULT_URI": "https://phoenixaaivault.vault.azure.net/",
+        "SERVICEFUSION_ENVIRONMENT": "production"
+      }
+    }
+  }
+}
